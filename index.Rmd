@@ -5,6 +5,7 @@ subtitle: Relationship between wetland proximity and median annual income in Eri
 output: html_document
 ---
 
+
 # Introduction
 
 The importance of intact ecosystems to human society can be understood through the lens of ecosystem services.  Ecosystem services include direct and indirect resources and processes that support life on Earth (Wratten et al. 2013).  Changes to ecosystems disrupts their ability to provide ecosystem services (Carpernter et al. 2006).  Urbanization is one of the largest drivers of ecosystem degradation due to land use change and habitat fragmentation from agriculture, housing, and infrastructure development (McCauley et al. 2013). The impacts of ecosystem loss from urbanization are not reflected equally within society.  Instead, these losses reflect larger societal inequalities present in cities (Schell et al. 2020).  Historical urban development practices rooted in structural racism and classism have led to current inequality of proximity to green spaces in cities, with wealthier and whiter neighborhoods containing more trees, green space and biodiversity (Schell et al. 2020).  
