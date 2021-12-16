@@ -117,7 +117,7 @@ mapview::mapview(census_data, zcol = "estimate")
 The following displays how wetlands are distributed in Erie County
 
 ```{r, message=FALSE, error=FALSE, warning=FALSE}
-#Here are how the wetlands are distributed in Erie County
+#Here are how the wetlands are distributed in Erie County 
 plot(wetlands_raster, main= 'Wetlands in Erie County', xlab='Longitude', ylab='Latitude')
 plot(wetlands_distance, main='Proximity to wetlands in Erie County', xlab='Longitude', ylab='Latitude',asp=1)
 ```
